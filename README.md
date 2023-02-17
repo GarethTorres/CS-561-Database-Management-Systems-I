@@ -1,2 +1,2 @@
 # CS-561-Database-Management-Systems-I
-Assignments
+Assignments and Exams
